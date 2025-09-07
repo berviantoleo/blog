@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Leo's Blog"
+author = "Bervianto Leo Pratama"
+DefaultContentLanguage = "en-us"
+enableInlineShortcodes = true
+
+[pagination]
+  pagerSize = 7
+[params]
+  twitter = 'berviantoleo'
+  github = 'berviantoleo'
+  instagram = 'bervianto.leo'
+
+  avatar = 'bervianto.leo@gmail.com'
+  name = 'Bervianto Leo Pratama'
+  bio = 'Software Engineer'
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nanxiaobei/hugo-paper"
