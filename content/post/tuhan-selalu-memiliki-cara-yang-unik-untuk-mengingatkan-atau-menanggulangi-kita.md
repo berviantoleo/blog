@@ -37,11 +37,11 @@ Ada satu perkataan yang baik.
 
 Perkataan ini benar sekali, Tuhan akan selalui mengingatkan kembali minat saya yang semula. Mungkin, ada pembaca yang sudah membaca beberapa tulisan saya yaitu,
 
-%[https://hashnode.com/post/clqu9mjjr000608js9ac0erng] 
+%[#
 
-%[https://hashnode.com/post/cluia2w6w000008jv6gt6dirv] 
+%[#
 
-%[https://hashnode.com/post/clvjr6xrv001o09md73a2h52u] 
+%[#
 
 Jika ada yang mendapatkan benang merahnya, Anda cukup "observant". Dari berbagai tulisan tersebut, saya sebenarnya menuliskan beberapa "situasi" dan pembicaraan Tuhan kepada saya. Sekali lagi, saya tidak akan menuliskannya situasi apa itu di tulisan ini.
 

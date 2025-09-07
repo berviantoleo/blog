@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eIkbSc3SDtI/up
 
 Wah, sudah 1 bulan semenjak diary publik saya yang pertama terbit. Bagi yang belum baca, mari simak.
 
-[https://socialproblems.hashnode.dev/ternyata-berbeda](https://socialproblems.hashnode.dev/ternyata-berbeda)
+[https://gp.berviantoleo.my.id/blog/post/ternyata-berbeda](https://gp.berviantoleo.my.id/blog/post/ternyata-berbeda)
 
 ## 4 Tahun : Pertama (2014-2018)
 
@@ -33,7 +33,7 @@ Namun, pertengahan **2023**, saya mulai memulihkan hubungan saya dengan Tuhan, s
 
 Saya sangat ingat mengenai konsekrasi saya di akhir tahun **2023.**
 
-[https://socialproblems.hashnode.dev/2023-lesson-learned](https://socialproblems.hashnode.dev/2023-lesson-learned)
+[https://gp.berviantoleo.my.id/blog/post/2023-lesson-learned](https://gp.berviantoleo.my.id/blog/post/2023-lesson-learned)
 
 ## Keempat dan Seterusnya (2023-2024 ...)
 
@@ -43,7 +43,7 @@ Saya benar-benar bersukacita karena pengalaman akan diri-Nya! Sempat sekitar say
 
 Jika masih ingat, saya memang terus memulihkan penghidupan doa saya.
 
-[https://socialproblems.hashnode.dev/berhasil-atau-gagal-sudah-biasa](https://socialproblems.hashnode.dev/berhasil-atau-gagal-sudah-biasa)
+[https://gp.berviantoleo.my.id/blog/post/berhasil-atau-gagal-sudah-biasa](https://gp.berviantoleo.my.id/blog/post/berhasil-atau-gagal-sudah-biasa)
 
 Saya sangat bersukacita atas pengalaman akan diri-Nya!
 

@@ -10,7 +10,7 @@ tags:
 
 Sudah baca tulisan saya sebelumnya soal penilaian kuantitatif? Kalau belum, baca dulu ya.
 
-[Kompleksnya Penilaian Kuantitatif untuk Hal yang Bersifat Kualitatif](https://hashnode.com/post/clibk9fqz000t09l3havadozy)
+[Kompleksnya Penilaian Kuantitatif untuk Hal yang Bersifat Kualitatif](#)
 
 Kenapa kamu perlu baca itu dulu? Karena akan sedikit berkaitan dengan tulisan saat ini.
 
