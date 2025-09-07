@@ -4,6 +4,8 @@ title = "Leo's Blog"
 author = "Bervianto Leo Pratama"
 DefaultContentLanguage = "en-us"
 enableInlineShortcodes = true
+canonifyURLs = true
+relativeURLs = false
 
 [params]
   env = "production"
