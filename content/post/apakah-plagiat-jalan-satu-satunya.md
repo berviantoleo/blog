@@ -42,7 +42,7 @@ Saya paham, pasti akan ada yang mulai menyinggung persoalan ini: “Ah, lu kan m
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1651188680215/XJ89v7I5I.jpeg)
 
-Sumber gambar udah ada di gambarnya sendiri ya. Lebih lengkapnya di sini nih: [http://www.quotehd.com/quotes/leslie-fiedler-critic-quote-all-good-criticism-should-be-judged-the-way-art-is](http://www.quotehd.com/quotes/leslie-fiedler-critic-quote-all-good-criticism-should-be-judged-the-way-art-is)
+Sumber gambar udah ada di gambarnya sendiri ya. Lebih lengkapnya di sini nih: [https://www.quotehd.com/quotes/leslie-fiedler-critic-quote-all-good-criticism-should-be-judged-the-way-art-is](https://www.quotehd.com/quotes/leslie-fiedler-critic-quote-all-good-criticism-should-be-judged-the-way-art-is)
 
 Saya yakin teman-teman akan memberikan kritik yang membangun. Jadi mari berbagi pendapat.
 
