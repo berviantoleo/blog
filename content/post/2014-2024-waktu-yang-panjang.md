@@ -21,7 +21,7 @@ Di saat saya menemukan tujuan hidup saya, saya mulai kembali mengejar Tuhan! Tid
 
 Salah satu artikel yang mengekspresikan bagaimana saya semakin mau bersungguh-sungguh datang kepada-Nya.
 
-[https://gp.berviantoleo.my.id/blog/2018/12/25/lord-give-me-new-heart-and-new-spirit](https://gp.berviantoleo.my.id/blog/2018/12/25/lord-give-me-new-heart-and-new-spirit)
+[https://gp.berviantoleo.my.id/blog/post/2018-12-25-lord-give-me-new-heart-and-new-spirit/](https://gp.berviantoleo.my.id/blog/post/2018-12-25-lord-give-me-new-heart-and-new-spirit/)
 
 Ya, Dia-lah motivasi saya, Dia-lah tujuan saya! Entah itu 2018, **2019**, 2020, saya masih ingat betapa saya begitu mendambakan diri-Nya. Sebelum pandemi menyerang. :(
 
