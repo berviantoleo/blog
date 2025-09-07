@@ -76,9 +76,9 @@ Spoiler dikit. Ya intinya ada berkaitan dengan tujuan saya di tahun 2024 ini. In
 
 Nih spoiler sedikit...
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1712055958141/f76e1190-0f4f-48b5-a766-51bb92f0ebad.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1712055958141/f76e1190-0f4f-48b5-a766-51bb92f0ebad.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1712056131282/997b3394-40be-434a-9862-b661e411e720.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1712056131282/997b3394-40be-434a-9862-b661e411e720.png)
 
 Ada "sub"-topik yang sengaja saya tidak tampilkan ya. Itu rahasia. Hehehe... :)
 

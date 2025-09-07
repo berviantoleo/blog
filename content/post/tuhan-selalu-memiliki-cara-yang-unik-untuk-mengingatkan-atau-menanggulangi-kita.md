@@ -17,7 +17,7 @@ Saya juga merasakan hal demikian, walaupun saya mungkin sudah pada tingkatan ter
 
 Sebagai seorang "observant", saya cukup "peka" dalam melihat situasi. Namun, saya cukup takut kalau hal ini menjadi kemampuan saya, bukan perkataan/pembicaraan Tuhan.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714914610457/591f108e-3f70-4099-8099-c56f15ee5d98.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714914610457/591f108e-3f70-4099-8099-c56f15ee5d98.png)
 
 > Kita tidak percaya bahwa dalam situasi yang ditaruh di depan kita sama sekali tidak ada perkataan; sebaliknya kita benar-benar percaya bahwa satu situasi menimpa kita karena Allah akan melaluinya berbicara kepada kita.
 

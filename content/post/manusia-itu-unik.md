@@ -36,6 +36,6 @@ Saya! Saya tidak berani untuk menyebutkan orang lain sebagai manusia unik. Nanti
 
 ---
 
-[![Sumber: https://quotefancy.com/quote/1588635/Ren-Dubos-Each-human-being-is-unique-unprecedented-unrepeatable](https://quotefancy.com/media/wallpaper/800x450/2474005-Ren-Dubos-Quote-Each-human-being-is-unique-unprecedented.jpg align="center")](https://quotefancy.com/quote/1588635/Ren-Dubos-Each-human-being-is-unique-unprecedented-unrepeatable)
+[![Sumber: https://quotefancy.com/quote/1588635/Ren-Dubos-Each-human-being-is-unique-unprecedented-unrepeatable](https://quotefancy.com/media/wallpaper/800x450/2474005-Ren-Dubos-Quote-Each-human-being-is-unique-unprecedented.jpg)](https://quotefancy.com/quote/1588635/Ren-Dubos-Each-human-being-is-unique-unprecedented-unrepeatable)
 
 Sumber gambar: [https://quotefancy.com/quote/1588635/Ren-Dubos-Each-human-being-is-unique-unprecedented-unrepeatable](https://quotefancy.com/quote/1588635/Ren-Dubos-Each-human-being-is-unique-unprecedented-unrepeatable)

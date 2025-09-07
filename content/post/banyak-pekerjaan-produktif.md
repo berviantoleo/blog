@@ -43,4 +43,4 @@ Jadi, saya merasa, saya belumlah produktif. Saya merasa sekedar menjalankan tuga
 
 Tetep semanget walau masih banyak kerjaan. :')
 
-![](https://i.gifer.com/XZ9.gif align="center")
+![](https://i.gifer.com/XZ9.gif)
