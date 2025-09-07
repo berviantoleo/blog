@@ -19,19 +19,19 @@ Dalam postingan ini saya ingin menjelaskan cara mudah membuat post blog dengan T
 
 1. Buka [tinypress.co](https://tinypress.co). Klik Join ... Writers!
 
-    ![Landing Page](https://berviantoleo.github.io/images/blog/1/landing-page.png)
+    ![Landing Page](http://gp.berviantoleo.my.id/images/blog/1/landing-page.png)
 
 2. Lalu Anda akan mendapat halaman log-in jika sebelumnya belum pernah log-in github. Silahkan log-in. Lalu setelah log-in anda akan diminta untuk autentikasi aplikasi tersebut dengan akun Anda.
 
-    ![Log-in Page](https://berviantoleo.github.io/images/blog/1/log-in.png)
+    ![Log-in Page](http://gp.berviantoleo.my.id/images/blog/1/log-in.png)
 
 3. Setelah berhasil log-in. Anda akan mendapat dashboard postingan Anda. Anda dapat membuat post dengan klik New Post.
 
-    ![Post Dashboard](https://berviantoleo.github.io/images/blog/1/post-dashboard.png)
+    ![Post Dashboard](http://gp.berviantoleo.my.id/images/blog/1/post-dashboard.png)
 
 4. Buat Postingan Anda! Membuat postingan ini dapat dengan menggunakan format markdown. Anda dapat mencari informasi mengenai markdown di luar postingan ini. Untuk mengecek hasil tulisan Anda, dapat klik preview untuk liat hasil sementara yang telah Anda tulis.
 
-    ![Create Post](https://berviantoleo.github.io/images/blog/1/create-post.png)
+    ![Create Post](http://gp.berviantoleo.my.id/images/blog/1/create-post.png)
 
      Catatan : untuk memasukan gambar, gunakan format markdown, simpan gambar Anda dalam repository Anda. Kode markdown gambar dapat Anda lihat di luar postingan ini.
 
