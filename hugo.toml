@@ -7,9 +7,12 @@ enableInlineShortcodes = true
 canonifyURLs = true
 relativeURLs = false
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-TKL9K49MPQ"
+
 [params]
   env = "production"
-  googleAnalytics = "G-TKL9K49MPQ"  # Replace with your GA4 ID
 
   twitter = 'berviantoleo'
   github = 'berviantoleo'
